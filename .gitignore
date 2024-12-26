@@ -1,0 +1,32 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+
+# Distribution/build artifacts
+build/
+dist/
+*.egg-info/
+*.eggs/
+
+# PyPI config (if used)
+.pypirc
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+
+# Test results
+.pytest_cache/
+.coverage
+.tox/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+tinyworld_frames
