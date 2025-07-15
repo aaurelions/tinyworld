@@ -1,7 +1,11 @@
 # TinyWorld
 
 <div style="text-align:center" align="center">
-    <img src="https://raw.githubusercontent.com/aaurelions/tinyworld/master/logo.png" width="200">
+    
+
+https://github.com/user-attachments/assets/68551adc-034b-46f1-9610-d35d30bc322f
+
+
 </div>
 
 **TinyWorld** is a Python library + CLI that generates short, dynamic, colorful videos with:
